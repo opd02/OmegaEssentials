@@ -1,0 +1,36 @@
+name: Essentials
+author: opd02
+version: 0.1.6
+main: me.opd02.essentials.main
+api-version: 1.15
+commands:
+  gm:
+  fly:
+  echest:
+  msg:
+    aliases: [message]
+  r:
+    aliases: [reply]
+  ci:
+    aliases: [clearinventory, clearinv]
+  feed:
+    aliases: [feedme, eat]
+  near:
+    aliases: [nearme, whonear]
+  list:
+  ignore:
+  tpa:
+  tpaccept:
+    aliases: [tpyes]
+  tpahere:
+  tpdeny:
+    aliases: [tpno, tpadeny]
+  gmc:
+  gms:
+  gmsp:
+  spawn:
+  setspawn:
+  warp:
+    aliases: [warps]
+  setwarp:
+  delwarp:
